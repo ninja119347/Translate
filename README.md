@@ -23,6 +23,7 @@ presenter->view:Update_UI
 Note right of view:then you can see the result in the EditText
 Note left of model:take a picture which you want to translate
 ```
+![qq_pic_merged_1576517267145](assets/show.png)
 ## Background
 
 This is a homework of Android. 
