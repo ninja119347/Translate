@@ -4,14 +4,14 @@
 
 
 	
-	- [Background](#background)
-	- [Install](#install)
-	- [Usage](#usage)
-	- [Example](#example)
-	- [Maintainers](#maintainers)
-	- [Contributing](#contributing)
-	- [Remember](#remember)
-	- [License](#license)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Example](#example)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [Remember](#remember)
+- [License](#license)
   
 
 ```sequence{theme="hand"}
