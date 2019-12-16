@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Readme](#readme)
-	- [Table of Contents](#table-of-contents)
+
+	
 	- [Background](#background)
 	- [Install](#install)
 	- [Usage](#usage)
