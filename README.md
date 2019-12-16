@@ -32,7 +32,7 @@ This is a homework of Android.
 
 This project uses ``apk`` to install in you android smart phone
 you can install the ``apk`` directly 
-![qq_pic_merged_1576517267145](/assets/qq_pic_merged_1576517267145.jpg)
+![qq_pic_merged_1576517267145](assets/qq_pic_merged_1576517267145.jpg)
 
 ## Usage
 
@@ -40,7 +40,7 @@ This is only for simple translation just for study usage. :cry:
 And you can take a picture to find text to translate. :smile:
 
 ## Example
-<div><img src="/assets/FFA393AA9153C5E3FCF9F0F9F30E9611.jpg" style="height: 600px; width:400px"> </div><div><img src="/assets/DD5E0496CCE6BE1988A42ECB46D19E31.jpg" style="height: 800px;width:400px"> </div>
+<div><img src="assets/FFA393AA9153C5E3FCF9F0F9F30E9611.jpg" style="height: 600px; width:400px"> </div><div><img src="assets/DD5E0496CCE6BE1988A42ECB46D19E31.jpg" style="height: 800px;width:400px"> </div>
 
 
 ## Maintainers
